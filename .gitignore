@@ -1,0 +1,20 @@
+
+# All files in data
+###################
+data/*
+data_raw/*
+secrets/*
+volumes/*
+notebooks_to_update/*
+
+# All checkpoints
+###################
+.ipynb_checkpoints/
+
+*.PNG
+*.pkl
+*.pptx
+*.docx
+*.pyc
+*.whl
+*.tar.gz
